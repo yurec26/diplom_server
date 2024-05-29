@@ -19,8 +19,8 @@ public class Server {
 
     public static void main(String[] args) throws IOException {
         // файл настроек. Единственная строчка - порт (обязательно).
-        File fileSettings = new File("settings.txt");
-        File filelog = new File("log.txt");
+        File fileSettings = new File("src/main/resources/settings.txt");
+        File filelog = new File("src/main/resources/log.txt");
 
         choosePort(fileSettings);
         sendMsgThread();
