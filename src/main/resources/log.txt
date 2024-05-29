@@ -1,0 +1,12 @@
+'admin : user bibi entered the chat.' 23:26
+'bibi: tititi' 23:26
+'bibi: fff' 23:26
+'admin: hello' 23:26
+'admin : user miros entered the chat.' 23:27
+'admin : user bibi entered the chat.' 23:27
+'bibi: iigi' 23:27
+'bibi: gg' 23:27
+'bibi: pruwet' 23:28
+'miros: pruwet' 23:28
+'admin: bibi disconnected from chat' 23:28
+'admin: miros disconnected from chat' 23:28
