@@ -12,7 +12,7 @@ import java.io.*;
 class ServerTest {
     @Test
     void choosePort_test() throws IOException {
-        File fileSettings = new File("C:/Users/Юрий/IdeaProjects/diplom_2/server/src/main/resources/settings_test.txt");
+        File fileSettings = new File("settings_test.txt");
         //
         String actual = Server.choosePort(fileSettings);
         String expected = "Current port is: 26";
